@@ -1,0 +1,17 @@
+Main sections:
+
+	1.  Compresson/decompresson
+	2.  Backup
+	3.  Update system
+	4.  Memory
+	5.  Acces rights
+	6.  Plannig
+	7.  Users & Groups
+	8.  Sleep/Waking Up
+	9.  Time & Date
+	10. Mounting/unmounting
+	11. Safety
+	12. Search
+
+
+Sub-items of sections:
